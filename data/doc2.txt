@@ -1,0 +1,2 @@
+In a minimal RAG pipeline, documents are chunked into smaller pieces, indexed with vector embeddings, and searched by similarity. The top results are injected into the prompt or used to build an extractive answer. This improves grounding and reduces hallucination compared to pure generation.
+

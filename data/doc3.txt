@@ -1,0 +1,2 @@
+A simple index can be built with TF-IDF vectors for each chunk. At query time, cosine similarity ranks the chunks. The system returns the best chunks and cites their sources for transparency.
+

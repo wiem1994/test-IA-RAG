@@ -1,0 +1,2 @@
+RAG stands for Retrieval Augmented Generation. It combines a retriever with a generator so answers can use external knowledge. The retriever selects relevant passages from a local knowledge base. The generator then produces a response based on the retrieved text.
+
